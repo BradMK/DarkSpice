@@ -1913,3 +1913,6 @@ div#item_summary.ticket div#new-purchase-inner{
   border-color:#454545;
   border-style:solid;
 }
+.datepicker table tr td.day:hover {
+  background: #707070;
+}
