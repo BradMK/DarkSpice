@@ -17,7 +17,7 @@ Please feel free to contribute to the CSS. The orriginal file is for the Dark Ui
 
 1. Install "Stylish" plugin in Chrome Opera or Firefox
 2. Create a new style
-3. Copy the CSS into the newly created style
+3. Copy the CSS from "DarkSpice.Theme" into the newly created style
 4. (Chrome/Opera) In Chrome or Opera make sure to enter your spiceworks domain in the applies to field of the style settings page.
 4. (Firefox) In Firefox make sure you add ( @-moz-document domain(your domain/IP goes here) { ) at the very to of the file and another ( } ) to the bottom of the file, otherwise this custom CSS will apply to absolutely every page you visit with the browser that has matching css selectors.
 
