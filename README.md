@@ -1,4 +1,5 @@
 # DarkSpice
+!Read Installation Instructions at the bottom!
 
 This is a Spiceworks UI overhaul with CSS for those sensitive to light. Inspired by the dark theme in Zabbix.
 
@@ -17,7 +18,7 @@ Please feel free to contribute to the CSS. The orriginal file is for the Dark Ui
 1. Install "Stylish" plugin in Chrome Opera or Firefox
 2. Create a new style
 3. Copy the CSS into the newly created style
-4.(Chrome/Opera) In Chrome or Opera make sure to enter your spiceworks domain in the applies to field of the style settings page.
-4.(Firefox) In Firefox make sure you add
+4. (Chrome/Opera) In Chrome or Opera make sure to enter your spiceworks domain in the applies to field of the style settings page.
+4. (Firefox) In Firefox make sure you add ( @-moz-document domain(your domain/IP goes here) { ) at the very to of the file and another ( } ) to the bottom of the file, otherwise this custom CSS will apply to absolutely every page you visit with the browser that has matching css selectors.
 
-NOTE: Do Not use beautify option in stylish as it breaks some table related .CSS (specifically it removes all spaces before ":nth-child" and they are required in some places for the related custom CSS to work. 
+NOTE: Do Not use beautify option in stylish as it breaks some table related .CSS (specifically it removes all spaces before ":nth-child" and they are required in some places for the related custom CSS to work.
