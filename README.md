@@ -7,7 +7,7 @@ This is a beta version, however, majority of UI elements should be covered. if y
 
 Please note: Spiceworks was designed with a light theme in mind and some icons do not look great on a dark background (some white edges etc.).
 
-This method works better than my native spiceworks plugin as it avoids some issues/limitations of the Spiceworks API and/or my coding skills, such as: the Ticket Dashboard is NOT ignored, The login Page is NOT ignored. It also allows you to make sure it applies only to users that want it instead of applying it globally to the entire Spiceworks install.
+For now this method works better than my native spiceworks plugin (https://community.spiceworks.com/appcenter/app/plugin_2255/) as it avoids some issues/limitations of the Spiceworks API and/or my coding skills, such as: the Ticket Dashboard is NOT ignored, The login Page is NOT ignored. It also allows you to make sure it applies only to users that want it instead of applying it globally to the entire Spiceworks install.
 
 # Contribution
 
