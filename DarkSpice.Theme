@@ -16,7 +16,7 @@ settings-table-row:nth-child(even) {
 .alerts-table .alerts-body :nth-child(even).alerts-row {
     background: #454545;
 }
-.event-logging-manager .exclusion-list li :nth-child(even),
+.event-logging-manager .exclusion-list li:nth-child(even),
 .event-logging-manager .inclusion-list li :nth-child(even) {
     background: #454545;
 }
